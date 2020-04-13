@@ -2,7 +2,7 @@
 Welcome to the Git repository of the Roll a Ball game!
 
 ### If you want to see the project inside:
-1. Download the "Roll_a_ball" zip and unzip it.
+1. Download the "project" zip and unzip it.
 2. Open it with unity.
 
 ### Or if you just want to play it:
